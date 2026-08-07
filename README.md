@@ -4,8 +4,6 @@
 
 **[Открыть в Telegram](https://go.glazboga.is/?utm_source=github&utm_medium=repository&utm_campaign=glaz-boga-bot-besplatno)**
 
-![Content validation](https://github.com/sherlock-tg-bot/glaz-boga-bot-besplatno/actions/workflows/validate.yml/badge.svg)
-
 ## Что именно означает «бесплатно»
 
 Поисковый запрос обычно означает желание быстро попробовать Telegram-инструмент без предварительной оплаты. На практике нужно различать:
