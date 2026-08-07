@@ -1,0 +1,22 @@
+{
+  "position": 31,
+  "keyword": "глаз бога бот бесплатно",
+  "slug": "glaz-boga-bot-besplatno",
+  "category": "Бренд (Глаз Бога)",
+  "volume": 42000,
+  "demand": "Высокий",
+  "intent": "telegram_tool",
+  "product": "Глаз Бога",
+  "target_base": "https://go.glazboga.is/",
+  "target_url": "https://go.glazboga.is/?utm_source=github&utm_medium=repository&utm_campaign=glaz-boga-bot-besplatno",
+  "repository_description": "Глаз бога бот бесплатно: практическое руководство, ограничения метода и проверка результата по первоисточнику.",
+  "repository_topics": [
+    "open-source-intelligence",
+    "digital-safety",
+    "russian-guide",
+    "glaz-boga",
+    "public-records",
+    "telegram",
+    "osint-tools"
+  ]
+}
